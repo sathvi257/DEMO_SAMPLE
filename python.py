@@ -21,3 +21,12 @@ num = 7
 # call the factorial function
 result = factorial(num)
 print("The factorial of", num, "is", result)
+
+
+
+
+
+
+
+# Python program to find the factorial of a number provided by the user
+# using recursion
